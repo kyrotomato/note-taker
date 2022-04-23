@@ -31,7 +31,7 @@ JavaScript,HTML,CSS,Bootstrap,Node
 ## Links
 https://github.com/kyrotomato/note-taker - 
 https://kyrotomato.github.io/note-taker/
-https://dashboard.heroku.com/apps/notes-now
+https://notes-now.herokuapp.com/
 ## Questions
 For further questions, please contact me at: [GitHub]('https://github.com/'kyrotomato) or thomasmccalister@gmail.com
     
