@@ -14,6 +14,8 @@ Simple unzip the file and use npm start to run the server.js. From there the def
 Click the button on the main page and you will be brought to the notes page. Enter a note and hit save to store it
 ![image](https://user-images.githubusercontent.com/97704480/164917221-de231722-bb16-456a-a5bc-c23ebb2efd77.png)
 ![image](https://user-images.githubusercontent.com/97704480/164934656-f40b0868-6adb-49cb-855c-2797dbe86a6f.png)
+![image](https://user-images.githubusercontent.com/97704480/164934761-d460f2ea-d4c2-4a09-a534-4c7ec62cf5a3.png)
+
 
 
 ## Contribution
