@@ -12,6 +12,8 @@ This is an app that stores notes on a convenient HTML UI and stores them on a lo
 Simple unzip the file and use npm start to run the server.js. From there the default server is your local host port 3001
 ## Usage
 Click the button on the main page and you will be brought to the notes page. Enter a note and hit save to store it
+![image](https://user-images.githubusercontent.com/97704480/164917221-de231722-bb16-456a-a5bc-c23ebb2efd77.png)
+
 ## Contribution
 N/A
 ## Tests
