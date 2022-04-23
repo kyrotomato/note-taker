@@ -2,6 +2,7 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path');
 const app = express();
+const {v4 : uuidv4} = require('uuid');
 //middleware
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
@@ -27,6 +28,8 @@ app.get("/api/notes", function (req, res) {
 //posting the notes
 app.post("/api/notes", function (req, res) {
     var newNote = req.body;
+    var idofNote = uuidv4()
+    newNote.id= idofNote;
     res.sendFile(path.join(__dirname, "./db/db.json"));
     fs.readFile('./db/db.json', 'utf8', (err, data) => {
         if (err) throw err;
